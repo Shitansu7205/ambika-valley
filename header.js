@@ -90,9 +90,12 @@ document.write(`
 								</ul>
 								<!-- Start Other Option -->
 								<div class="others-option">
-									<a class="call-us" href="tel:+919428562202">
+									<a class="call-us" href="tel:+919104092202">
 										<i class="bx bx-phone-call bx-tada"></i>
-										+91 9428562202
+										+91 91040 92202
+									</a>,
+									<a class="call-us" href="tel:+919428562202">
+										+91 94285 62202
 									</a>
 								</div>
 								<!-- End Other Option -->
