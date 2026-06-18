@@ -135,7 +135,7 @@ document.write(`
 					<div class="row align-items-center">
 						<div class="col-lg-6">
 							<div class="copy-right">
-								<p>Copyright @2023 | All Rights Reserved</p>
+								<p>Copyright @2026 | All Rights Reserved</p>
 							</div>
 						</div>
 						<div class="col-lg-6">
