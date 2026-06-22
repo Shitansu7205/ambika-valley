@@ -8,17 +8,17 @@ document.write(`
 						<div class="col-lg-3 col-md-6">
 							<div class="single-widget">
 								<a href="index.html">
-									<img src="assets/ambika-images/logo.jpg" alt="Image" style="height:85px;border-radius:10px;">
+									<img src="assets/gulab-images/logo.png" alt="Image" style="height:85px;border-radius:10px;">
 								</a>
 								<ul class="social-icon">
 									<li>
-										<a href="facebook.com/profile.php?id=61590689091857">
+										<a href="#">
 											<i class="bx bxl-facebook"></i>
 										</a>
 									</li>
 									
 									<li>
-										<a href="https://www.instagram.com/invites/contact/?igsh=eimhzmtl4sez&utm_content=fueodkr">
+										<a href="#">
 											<i class="bx bxl-instagram"></i>
 										</a>
 									</li>
@@ -56,7 +56,7 @@ document.write(`
 										</a>
 									</li>
 									<li>
-										<a href="https://ambikavalleyresort938.bookingjini.in/">
+										<a href="gulabkothibygrapevinevaranasi">
 											<i class="right-icon bx bx-chevrons-right"></i>
 											Book Now 
 										</a>
@@ -110,20 +110,20 @@ document.write(`
 									<li class="address">
 										<i class="flaticon-maps-and-flags"></i>
 										<span>Address</span>
-										Swami Ashram, P P, Malegaon, Saputara, Gujarat 394720
+										117/1, Parao Ramnagar Road, Ward, Mauja, Katesar, Chandauli, Uttar Pradesh, India
 									</li>
 									<li class="address">
 										<i class="flaticon-call"></i>
 										<span>Phone</span>
-										<a href="tel:+919428562202">
-										+91 9428562202
+										<a href="tel:+917565004489">
+										+91 75650 04489
 										</a>
 									</li>
 									<li class="address">
 										<i class="flaticon-envelope"></i>
 										<span>Email</span>
-										<a href="mailto:Ambicavaillyresort@gmail.com">
-                      Ambicavaillyresort@gmail.com
+										<a href="mailto:reservations.gk@grapevinevaranasi.com">
+                      reservations.gk@grapevinevaranasi.com
 										</a>
 									</li>
 								</ul>
@@ -196,6 +196,7 @@ document.write(`
 		
 
  
+
         <!-- Start Instant Booking Widget-->
             <script>
             (function() {
@@ -208,7 +209,7 @@ document.write(`
 
                 const rootWidget = addElement("div", {
                     id:"Mw31A3qlpySYe9FG",
-                    hotelId: 8760,
+                    hotelId: 8812,
                 });
 
                 const script = addElement("script", {
@@ -219,7 +220,8 @@ document.write(`
             </script>
         <!-- End Instant Booking Widget-->
         
-<script src="https://jiniassist.bookingjini.com/embed.js?company_id=9882"></script>
+        
+<script src="https://jiniassist.bookingjini.com/embed.js?company_id=9930"></script>
 
 		
 `)

@@ -6,7 +6,7 @@ document.write(`
 				<!-- Menu For Mobile Device -->
 				<div class="mobile-nav">
 					<a href="index.html" class="logo">
-						<img src="assets/ambika-images/logo.jpg" alt="Rourkela Best Hotel" style="border-radius:10px;">
+						<img src="assets/gulab-images/logo.png" alt="Rourkela Best Hotel" style="border-radius:10px;">
 					</a>
 				</div>
 				<!-- Menu For Desktop Device -->
@@ -15,7 +15,7 @@ document.write(`
 						<div class="container">
 							<a class="navbar-brand" href="index.html
 							">
-								<img src="assets/ambika-images/logo.jpg" alt="hotels in rourkela-Logo" style="height:80px;border-radius:10px;">
+								<img src="assets/gulab-images/logo.png" alt="hotels in rourkela-Logo" style="height:80px;border-radius:10px;">
 							</a>
 							<div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
 								<ul class="navbar-nav m-auto">
@@ -64,7 +64,7 @@ document.write(`
 									</li>
 
 									<li class="nav-item">
-										<a href="https://ambikavalleyresort938.bookingjini.in/	
+										<a href="https://gulabkothibygrapevinevaranasi.bookingjini.in/	
 										" class="nav-link dropdown-toggle " style="font-size: 16px;
     color: #ffffff;
     padding: 10px 20px 10px 20px;
@@ -90,12 +90,12 @@ document.write(`
 								</ul>
 								<!-- Start Other Option -->
 								<div class="others-option">
-									<a class="call-us" href="tel:+919104092202">
+									<a class="call-us" href="tel:+917565004489">
 										<i class="bx bx-phone-call bx-tada"></i>
-										+91 91040 92202
+										+91 75650 04489
 									</a>,
-									<a class="call-us" href="tel:+919428562202">
-										+91 94285 62202
+									<a class="call-us" href="tel:+917565004490">
+										+91 75650 04490
 									</a>
 								</div>
 								<!-- End Other Option -->

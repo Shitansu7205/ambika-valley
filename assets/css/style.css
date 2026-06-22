@@ -1415,15 +1415,15 @@ Eorik SliderArea Style
 }
 
 .slider-item-bg-1 {
-  background-image: url(../ambika-images/18.jpeg);
+  background-image: url(../gulab-images/1.jpeg);
 }
 
 .slider-item-bg-2 {
-  background-image: url(../ambika-images/19.jpg);
+  background-image: url(../gulab-images/14.jpeg);
 }
 
 .slider-item-bg-3 {
-  background-image: url(../ambika-images/20.jpg);
+  background-image: url(../gulab-images/5.jpeg);
 }
 
 /*
@@ -1808,7 +1808,7 @@ Facilities Area Style
 Incredible Area Style
 ======================================================*/
 .incredible-area {
-  background-image: url(../ambika-images/21.jpg);
+  background-image: url(../gulab-images/5.jpeg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2411,15 +2411,15 @@ Restaurants Area Style
 }
 
 .single-restaurants.bg-1 {
-  background-image: url(../ambika-images/12.jpeg);
+  background-image: url(../gulab-images/48.jpeg);
 }
 
 .single-restaurants.bg-2 {
-  background-image: url(../ambika-images/17.jpeg);
+  background-image: url(../gulab-images/16.jpeg);
 }
 
 .single-restaurants.bg-3 {
-  background-image: url(../ambika-images/19.jpg);
+  background-image: url(../gulab-images/2.jpeg);
 }
 
 .single-restaurants.bg-4 {
@@ -5466,11 +5466,10 @@ INNER PAGE STYLE
 Page Title Area Style
 =====================================================*/
 .page-title-area {
-  background-image: url(../img/2.jpeg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100%;
+  height: 70%;
   position: relative;
   z-index: 1;
   padding-top: 200px;
@@ -5479,11 +5478,10 @@ Page Title Area Style
   text-align: center;
 }
 .page-title-area2{
-  background-image: url(../img/9.jpeg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100%;
+  height: 70%;
   position: relative;
   z-index: 1;
   padding-top: 200px;
@@ -5492,11 +5490,10 @@ Page Title Area Style
   text-align: center;
 }
 .page-title-area3{
-  background-image: url(../img/13.jpeg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100%;
+  height: 70%;
   position: relative;
   z-index: 1;
   padding-top: 200px;
@@ -5505,11 +5502,10 @@ Page Title Area Style
   text-align: center;
 }
 .page-title-area4{
-  background-image: url(../img/18.jpeg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100%;
+  height: 70%;
   position: relative;
   z-index: 1;
   padding-top: 200px;
@@ -5518,11 +5514,10 @@ Page Title Area Style
   text-align: center;
 }
 .page-title-area5{
-  background-image: url(../img/28.jpeg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100%;
+  height: 70%;
   position: relative;
   z-index: 1;
   padding-top: 200px;
